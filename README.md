@@ -102,7 +102,8 @@ endmodule
 ```
 # OUTPUT:
 
-<img width="605" alt="328528775-d532abf1-f1fe-4118-b60a-fb2648c58354" src="https://github.com/RCKcharan10/VLSI-LAB-EXP-5/assets/117891438/cd4c7cb1-e34b-4e65-bf8d-6070c1958ff0">
+![image](https://github.com/RCKcharan10/VLSI-LAB-EXP-5/assets/117891438/7b8a6934-0e86-45dc-9066-106c1e2c3ed8)
+
 
 ![image](https://github.com/RCKcharan10/VLSI-LAB-EXP-5/assets/117891438/d05872d4-dcc7-4201-8aee-62ebf5393218)
 
